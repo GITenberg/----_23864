@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Sun_Tzu
     - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23864#----
 gutenberg_issued: '2007-12-15'
 gutenberg_type: Text
 identifiers:
