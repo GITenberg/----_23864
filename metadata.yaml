@@ -1,0 +1,33 @@
+_repo: '----_23864'
+_version: 0.1.0
+alternative_title: Sun zi bing fa
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sunzi, active 6th century B.C.
+    aliases:
+    - Sun Tzu
+    - 孫子
+    - 孙子
+    gutenberg_agent_id: '4349'
+    url: http://www.gutenberg.org/2009/agents/4349
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sun_Tzu
+    - http://zh.wikipedia.org/wiki/%E5%AD%99%E6%AD%A6
+description: ''
+gutenberg_issued: '2007-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23864'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcsh 'War -- Early works to 1800'
+- !lcsh 'Military art and science -- Early works to 1800'
+title: 孫子兵法
+url: http://www.gutenberg.org/ebooks/23864
